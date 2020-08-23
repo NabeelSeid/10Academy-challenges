@@ -47,8 +47,6 @@ def predict():
 
 @app.route('/plot')
 def plot():
-    # if(forecast == None):# send t# send t
-    #     abort(404)
     df = pd.read_csv("./forecast.csv", parse_dates =['ds'])
 
     fig = Figure()
