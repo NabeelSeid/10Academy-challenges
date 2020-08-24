@@ -1,20 +1,13 @@
-## Concept
+# Pharmaceutical Sales prediction across multiple stores
 
-Seasonal analysis
-Regression problem
-sk-learn pipeline
-Flask
+End-to-end product that delivers this prediction of sales in all Rossmann Pharmaceuticals stores across several cities.
 
-## Steps
+Uses [prophet](https://facebook.github.io/prophet/) to forecast time series data. 
 
-- Preprocession
-    - converting all non-numeric columns to numeric, 
-    - handling NaN values / missing values
-    - outliers
-    - generating new features from already existing features
+The data and feature description for this challenge can be found [here](https://www.kaggle.com/c/rossmann-store-sales/data)
 
 ## References
 
-[!Pipelines](https://www.kaggle.com/alexisbcook/pipelines)
-[!Building Sales Prediction Web Application using Machine Learning Dataset](https://www.analyticsvidhya.com/blog/2020/08/building-sales-prediction-web-application-using-machine-learning-dataset/)
-[!Python Time Series Analysis Tutorial](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
+[Pipelines](https://www.kaggle.com/alexisbcook/pipelines)
+[Building Sales Prediction Web Application using Machine Learning Dataset](https://www.analyticsvidhya.com/blog/2020/08/building-sales-prediction-web-application-using-machine-learning-dataset/)
+[Python Time Series Analysis Tutorial](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
