@@ -1,0 +1,7 @@
+# production
+/build
+
+
+#hidden files
+.*
+!/.gitignore
