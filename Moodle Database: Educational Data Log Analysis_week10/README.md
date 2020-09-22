@@ -14,11 +14,3 @@ Explore the 10 Academy Moodle logs stored in the database together with many oth
 Description about the project [here](https://docs.google.com/document/d/1NSetqxsMZtjT8BLWcUk-aLv6StyWUBpKEJGT5l03NzM/edit#)
 
 You can download the anonymised 10 Academy moodle postgres database copy [here](https://drive.google.com/file/d/1JQT4wDgH1qJQ_ghrn9tt6nU3XckihlUc/view?usp=sharing)
-
-
-
-## References
-
-[Pipelines](https://www.kaggle.com/alexisbcook/pipelines)
-[Building Sales Prediction Web Application using Machine Learning Dataset](https://www.analyticsvidhya.com/blog/2020/08/building-sales-prediction-web-application-using-machine-learning-dataset/)
-[Python Time Series Analysis Tutorial](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
